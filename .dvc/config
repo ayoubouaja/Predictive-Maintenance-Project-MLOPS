@@ -1,0 +1,6 @@
+[core]
+    remote = mygdrive
+['remote "myremote"']
+    url = s3://mybucket/myproject
+['remote "mygdrive"']
+    url = gdrive://1OElk0HW0VIfzF9Urrfp2Qon92Pca7SBk?hl=fr
